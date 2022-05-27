@@ -14,7 +14,7 @@ public class Main {
         parte6 = "Dominar seus sentimentos";
         parte7 = "Controlar seus passos";
 
-        System.out.println(parte1+" "+parte2+" "+parte3);
+        System.out.println(parte1+" "+parte2+" "+parte3+" "+parte4+" "+parte5);
     }
 
 }
